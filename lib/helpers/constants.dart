@@ -1,1 +1,0 @@
-const baseUrl = 'https://ru.api.dev.photograf.io/v1/';
